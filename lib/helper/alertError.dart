@@ -28,7 +28,7 @@ showErrorDialog(context, msg) {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
                     Text(
-                      "$msg",
+                       "$msg",
                       style: TextStyle(fontStyle: FontStyle.italic),
                     ),
                   ],
